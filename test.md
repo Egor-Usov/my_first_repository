@@ -1,3 +1,0 @@
-test
-testting 
-some tests
