@@ -1,5 +1,6 @@
 # my_first_repository
 Репозиторий содержит учебные проекты Яндекс Практикума
+
 В папке [Сертификаты](https://github.com/Egor-Usov/my_first_repository/tree/main/sertificates) размещены различные сертификаты, полученные на онлайн курсах.
 
 # Yandex Praktikum Data-Analist+ 
