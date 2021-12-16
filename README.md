@@ -3,7 +3,7 @@
 
 В папке [Сертификаты](https://github.com/Egor-Usov/my_first_repository/tree/main/sertificates) размещены различные сертификаты, полученные на онлайн курсах.
 
-# Yandex Praktikum Data-Analist+ 
+# Yandex Praktikum Data-Analyst+ 
 В репозитории представлены проекты, выполненные мной в рамках обучения на программе "Аналитик данных Плюс"  от Яндекс.Практикум
 | Название спринта        | Название проекта      | Описание проекта      | Используемые инструменты |
 | :--------------------   | :-------------------- | :-------------------- | :----------------------- |
@@ -14,3 +14,4 @@
 |[5. Как рассказать историю с помощью данных](https://github.com/Egor-Usov/my_first_repository/tree/main/5.restaurant_project)| Исследование рынка объектов общественного питания |Выбор места для открытия нового ресторана |`pandas`  `seaborn` `matplotlib` `plotly` `requests` `bs4`|
 |[6. Проектирование дашбордов в Tableau](https://github.com/Egor-Usov/my_first_repository/tree/main/6.Zen_project)| Исследование поведения пользователей Яндекс.Дзен |Подготовка дашборта для ответа на вопросы менеджеров |`pandas`  `Tableau` |
 |[7. Второй сборный проект](https://github.com/Egor-Usov/my_first_repository/tree/main/7.telecom_project)| Исследование лояльности телеком оператора | Ответы на вопросы заказчиков с помощью дашборда |`pandas`  `Tableau` `sqlalchemy`|
+|[8. Анализ бизнес показателей](https://github.com/Egor-Usov/my_first_repository/tree/main/8.Application_project)| Исследование расходов на привлечение пользователей в мобильное приложение | Расчет пользовательских метрик и оценка эффективности рекламных кампаний |`pandas`  `seaborn` `matplotlib`|
